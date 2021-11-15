@@ -93,6 +93,7 @@ public class Enemy {
     public void setName(String name){
         this.name = name;
     }
+    
     /**
      * 自身のHPを設定するsetter
      * 
